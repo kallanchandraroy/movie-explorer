@@ -17,7 +17,7 @@ const Footer = () => {
         </p>
 
         <a
-          href="https://github.com/"
+          href="https://github.com/kallanchandraroy/movie-explorer"
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-2 text-sm text-slate-400 transition hover:text-white"
@@ -25,7 +25,7 @@ const Footer = () => {
           GitHub
         </a>
       </div>
-      
+
     </footer>
   );
 };
