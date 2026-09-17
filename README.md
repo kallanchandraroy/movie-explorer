@@ -2,6 +2,10 @@
 
 A simple Movie Explorer web application built with React and Tailwind CSS.
 
+## Live Link
+
+https://movie-explorer-green-nine.vercel.app
+
 ## Features
 
 - Browse TV shows
